@@ -12,6 +12,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [Screenshot](#screenshot)
+  - [Links]('#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [Useful resources](#useful-resources)
@@ -25,6 +26,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ![](./my-qr-code-component-solution.png)
 .
 
+### Links
+
+Solution URL: [https://www.frontendmentor.io/solutions/solution-using-simple-html5-and-css-iF4kFsxAsN]
+
+
 ## My process
 I used HTML5 markup with some basic knowledge of css.
 
@@ -35,10 +41,6 @@ First by using border property on all elements to be able to distinguish the pos
 - Semantic HTML5 markup
 - CSS custom properties
 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
 
 ### Useful resources
 
