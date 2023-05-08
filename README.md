@@ -30,6 +30,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 Solution URL: [https://www.frontendmentor.io/solutions/solution-using-simple-html5-and-css-iF4kFsxAsN]
 
+Live site URL: [https://blackysynch.github.io/qr-code-component-main/]
+
 
 ## My process
 I used HTML5 markup with some basic knowledge of css.
